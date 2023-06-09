@@ -1,5 +1,5 @@
 # GoBang-双人五子棋
-使用C++和Qt写的一个双人五子棋游戏。
+使用Qt写的一个双人五子棋游戏。
 Two player gobang game built by qt 
 
 ## 环境
