@@ -1,2 +1,9 @@
 # GoBang-双人五子棋
-使用C++(gcc version 8.1.0 Built by MinGW-W64 project)、Qt(5.15.2)写的一个双人五子棋游戏。
+使用C++和Qt写的一个双人五子棋游戏。
+
+## 环境
+* C++：gcc version 8.1.0 （Built by MinGW-W64 project）
+* Qt 5.12.2
+
+## 游戏截图
+![image](https://github.com/Xyh4ng/GoBang--/assets/66863621/702cbba3-9771-427d-ad53-65d6f2729edf)
